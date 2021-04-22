@@ -1,6 +1,6 @@
 # Phylliroe Placement manuscript code repository
 
-Citation: Goodheart, Jessica A., Wägele Heike. In Revision. Swimming behavior in nudibranch gastropods facilitated the transition to a pelagic lifestyle in Phylliroe.
+Citation: Goodheart, Jessica A., Wägele Heike. 2020. Swimming behavior in nudibranch gastropods facilitated the transition to a pelagic lifestyle in Phylliroe. Organisms, Diversity, and Evolution, 20: 657–667. doi: 10.1007/s13127-020-00458-9.
 
 ## Scripts Included
 
